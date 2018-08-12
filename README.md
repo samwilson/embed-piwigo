@@ -11,6 +11,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 The Piwigo Embeds plugin adds support for embedding photos from whitelisted Piwigo websites.
 
+[![Total Downloads](https://img.shields.io/wordpress/plugin/dt/piwigo-embeds.svg?style=flat-square)]()
+[![WordPress rating](https://img.shields.io/wordpress/plugin/r/piwigo-embeds.svg?style=flat-square)]()
+[![Latest Stable Version](https://img.shields.io/wordpress/plugin/v/piwigo-embeds.svg?style=flat-square)](https://wordpress.org/plugins/piwigo-embeds)
+[![WordPress version](https://img.shields.io/wordpress/v/piwigo-embeds.svg?style=flat-square)]()
+[![License](https://img.shields.io/github/license/samwilson/piwigo-embeds.svg?style=flat-square)](https://github.com/samwilson/piwigo-embeds/blob/master/LICENSE.txt)
+[![Build Status](https://travis-ci.org/samwilson/piwigo-embeds.svg?branch=master)](https://travis-ci.org/samwilson/piwigo-embeds)
+
 == Description ==
 
 The Piwigo Embeds plugin adds support for embedding photos from whitelisted Piwigo websites.
