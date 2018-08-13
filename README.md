@@ -5,7 +5,7 @@ Tags: piwigo, photos, embed, embeds, flickr
 Requires at least: 4.0
 Tested up to: 5.0
 Requires PHP: 5.6
-Stable tag: 0.1.0
+Stable tag: 0.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,11 +30,14 @@ and a medium-sized, centered image will be inserted in its place.
 
 Install this plugin in the normal way.
 
+Then go to the "Settings" → "Writing" page in the WordPress admin area,
+and list your Piwigo site URLs in the new "Piwigo site URLs" field.
+
 == Frequently Asked Questions ==
 
 = Does this modify the database? =
 
-A single option is added, called ``.
+A single option is added, called `piwigo-embeds-urls`.
 
 == Screenshots ==
 

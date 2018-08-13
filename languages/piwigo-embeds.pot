@@ -1,0 +1,55 @@
+# Copyright (C) 2018 Piwigo Embeds
+# This file is distributed under the same license as the Piwigo Embeds package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Piwigo Embeds 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/piwigo-embeds\n"
+"POT-Creation-Date: 2018-08-13 09:14:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. translators: a prefix to add to error messages.
+#: piwigo-embeds.php:43
+msgid "Error: %s"
+msgstr ""
+
+#. translators: help text for this plugin's configuration option.
+#: piwigo-embeds.php:74
+msgid "Base URLs of Piwigo sites, one per line."
+msgstr ""
+
+#. translators: error message displayed when no response could be got from a
+#. Piwigo API call.
+#: piwigo-embeds.php:99
+msgid "Unable to retrieve photo %s"
+msgstr ""
+
+#. translators: error message displayed when an error was received from a
+#. Piwigo API call.
+#: piwigo-embeds.php:105
+msgid "Unable to retrieve photo %1$s (Piwigo said: %2$s)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Piwigo Embeds"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://samwilson.id.au/plugins/piwigo-embeds/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Embed photos from a whitelist of Piwigo websites."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sam Wilson"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://samwilson.id.au"
+msgstr ""
