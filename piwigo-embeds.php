@@ -70,7 +70,7 @@ add_action( 'admin_init', function () {
 		function ( $args ) {
 			$val = get_option( 'piwigo-embeds-urls' );
 			echo '<textarea id="piwigo-embeds-urls" name="piwigo-embeds-urls" cols="80" rows="5">' . esc_html( $val ) . '</textarea>';
-			// translators: help text for this plugin's configuration option. 
+			// translators: help text for this plugin's configuration option.
 			echo '<p class="description">' . esc_html( __( 'Base URLs of Piwigo sites, one per line.', 'piwigo-embeds' ) ) . '</p>';
 		},
 		$option_group
