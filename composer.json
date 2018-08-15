@@ -1,5 +1,5 @@
 {
-	"name": "samwilson/piwigo-embeds",
+	"name": "samwilson/embed-piwigo",
 	"description": "A WordPress plugin to add support for embedding photos from whitelisted Piwigo websites.",
 	"license": "GPL-2.0-or-later",
 	"config": {
