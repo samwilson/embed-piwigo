@@ -19,7 +19,7 @@
  * Domain Path:       /languages
  */
 
-define( 'EMBED_PIWIGO_VERSION', '0.2.0' );
+define( 'EMBED_PIWIGO_VERSION', '0.3.0' );
 
 // If this file is called directly, abort.
 if ( ! defined( 'WPINC' ) ) {
@@ -28,7 +28,7 @@ if ( ! defined( 'WPINC' ) ) {
 
 // Load the URLs and register embed handlers for them all.
 $base_urls = array_filter( explode( "\n", get_option( 'embed-piwigo-urls' ) ) );
-samwforeach ( $base_urls as $i => $base_url ) {
+foreach ( $base_urls as $i => $base_url ) {
 	$trimmed_base_url = trim( $base_url, "\t\n\r\0\x0B/" );
 	wp_embed_register_handler(
 		"piwigo_$i",
