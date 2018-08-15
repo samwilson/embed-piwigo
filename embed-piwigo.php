@@ -10,7 +10,7 @@
  * Plugin Name:       Embed Piwigo
  * Plugin URI:        https://samwilson.id.au/plugins/embed-piwigo/
  * Description:       Embed photos from a whitelist of Piwigo websites.
- * Version:           0.2.0
+ * Version:           0.3.0
  * Author:            Sam Wilson
  * Author URI:        https://samwilson.id.au
  * License:           GPL-2.0+
