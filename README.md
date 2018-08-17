@@ -5,7 +5,7 @@ Tags: piwigo, photos, embed, embeds
 Requires at least: 4.7
 Tested up to: 4.9
 Requires PHP: 5.6
-Stable tag: 0.3.0
+Stable tag: 0.4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,7 +22,7 @@ The **Embed Pwigo** plugin adds support for embedding photos from whitelisted Pi
 
 The Embed Piwigo plugin adds support for embedding photos from whitelisted Piwigo websites.
 
-This means that you can add the URL (a.k.a. "web address")
+This means that you can add the URL (a.k.a. 'web address')
 of a photo in a Piwigo site to a WordPress post or page,
 and a medium-sized, centered image will be inserted in its place.
 
@@ -37,17 +37,19 @@ and list your Piwigo site URLs in the new "Piwigo site URLs" field.
 
 = Does this modify the database? =
 
-A single option is added, called `embed-piwigo-urls`.
-
-== Screenshots ==
-
-@TODO
+A single option is added, called `embed-piwigo-urls`,
+and no modifications are made to the database structure.
 
 == Changelog ==
 
-= 0.1..0 =
+= 0.4.0 =
+* Add more metadata into captions.
 
-Initial beta release.
+= 0.3.0 =
+* Add caching.
+
+= 0.1.0 =
+* Initial beta release.
 
 == Upgrade Notice ==
 
